@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align= "center"> 
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d57cfe&height=180&text=Lee%20Jiyun&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d57cfe&height=120&text=Lee%20Jiyun&animation=&fontColor=ffffff&fontSize=50" />
+    <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Information </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이것저것 배워서 재미있는 것을 만들고 싶은 개발자입니다! </div> 
     </div>
@@ -37,6 +38,5 @@ You can click the Preview link to take a look at your changes.
     <div align= "center">
         <a href=mailto:wbs0810@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wbs0810@gmail.com"> </a>
         <a href=https://www.notion.so/wbs0810/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/wbs0810/"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
+          </div>  <br>
     </div>
