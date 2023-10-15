@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align= "center"> 
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d57cfe&height=120&text=Lee%20Jiyun&animation=&fontColor=ffffff&fontSize=50" />
     <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Information </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이것저것 배워서 재미있는 것을 만들고 싶은 개발자입니다! </div> 
