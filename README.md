@@ -12,7 +12,10 @@ You can click the Preview link to take a look at your changes.
 <div align= "center"> 
     <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Information </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이것저것 배워서 재미있는 것을 만들고 싶은 개발자입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
+        Beginner Programmer<br>
+        <a href="https://www.notion.so/wbs0810/Portfolio-651aae77897f416197cdbb7e874588f6?pvs=4">📋Portfolio</a>
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
