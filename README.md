@@ -14,7 +14,6 @@ You can click the Preview link to take a look at your changes.
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👾 Information </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         Beginner Programmer<br>
-        <a href="https://www.notion.so/wbs0810/Portfolio-651aae77897f416197cdbb7e874588f6?pvs=4">📋Portfolio</a>
     </div> 
     </div>
     <div align= "center">
@@ -39,6 +38,5 @@ You can click the Preview link to take a look at your changes.
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">
         <a href=mailto:wbs0810@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wbs0810@gmail.com"> </a>
-        <a href=https://www.notion.so/wbs0810/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/wbs0810/"> </a>
           </div>  <br>
     </div>
